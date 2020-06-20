@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "vue": "^2.6.11"
+  },
+  "alias": {
+    "vue$" : "./node_modules/vue/dist/vue.common.js"
+  }
+}
